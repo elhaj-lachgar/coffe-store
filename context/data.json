@@ -1,0 +1,54 @@
+[
+    {
+        "_table": {
+            "_base": {
+                "_airtable": {},
+                "_id": "appt3U4xTSp5UVRC2"
+            },
+            "id": null,
+            "name": "coffe-store"
+        },
+        "id": "rec7TpgN67cxDhYOe",
+        "_rawJson": {
+            "id": "rec7TpgN67cxDhYOe",
+            "createdTime": "2023-10-05T12:12:51.000Z",
+            "fields": {}
+        },
+        "fields": {}
+    },
+    {
+        "_table": {
+            "_base": {
+                "_airtable": {},
+                "_id": "appt3U4xTSp5UVRC2"
+            },
+            "id": null,
+            "name": "coffe-store"
+        },
+        "id": "recVYc6DrDBiGTWzs",
+        "_rawJson": {
+            "id": "recVYc6DrDBiGTWzs",
+            "createdTime": "2023-10-05T13:22:25.000Z",
+            "fields": {}
+        },
+        "fields": {
+        }
+    },
+    {
+        "_table": {
+            "_base": {
+                "_airtable": {},
+                "_id": "appt3U4xTSp5UVRC2"
+            },
+            "id": null,
+            "name": "coffe-store"
+        },
+        "id": "recnryxWArU2MqWUD",
+        "_rawJson": {
+            "id": "recnryxWArU2MqWUD",
+            "createdTime": "2023-10-05T12:12:51.000Z",
+            "fields": {}
+        },
+        "fields": {}
+    }
+]

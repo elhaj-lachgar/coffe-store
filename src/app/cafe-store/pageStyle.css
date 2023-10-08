@@ -1,0 +1,59 @@
+.container-cafe{
+    width: 80%;
+    margin: 100px auto 0px;
+}
+
+@media(max-width : 548px){
+
+    .container-cafe{
+        width: 95%;
+        height: 1300px !important;
+    }
+    .cafe-image{
+        width: 250px !important;
+        height: 200px !important;
+    }
+    .choise-cafe{
+        display: flex;
+        flex-wrap:wrap ;
+        justify-content: center;
+        align-items: center;
+    }
+    .vote{
+        width: 200px;
+        transform: translateX(-200px);
+        height: 250px !important;
+    }
+
+}
+
+@media(max-width : 786px){
+    
+    .container-cafe{
+        width: 90%;
+        height: 1300px !important;
+    }
+    .vote{
+        width: 200px;
+        transform: translateX(-200px);
+        height: 250px !important;
+    }
+
+
+}
+
+
+.choise-cafe{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.vote{
+    background-color: aliceblue;
+    border-radius: 5px;
+    opacity: 0.8;
+    padding: 15px;
+    height: 200px;
+    transform: translateY(100px);
+}

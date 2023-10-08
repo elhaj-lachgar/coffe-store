@@ -1,0 +1,46 @@
+.header h1 {
+    color : inherit;
+    font-size: 50px;
+    font-weight: 900;
+    font-family: inherit;
+    text-transform: capitalize;
+   
+}
+.header h1 span{
+    color : #f6f6f6 !important;
+}
+@media (max-width : 640px){
+    .header h1 span{
+        color : #f6f6f6 !important;
+        display: block;
+        width: 100% !important;
+    }
+    .header h1 span{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+    .header h1{
+        font-size: 35px !important;
+    }
+    .header p{
+        font-size: 15px;
+    }
+  }
+.header p{
+    color : #f6f6f6;
+    font-size: 25px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+.header h1{
+    font-size: 50px;
+}
+@media (max-width : 768px){
+
+    .header h1{
+        font-size:  40px ; 
+    }
+    .header p{
+        font-size: 20px;
+    }
+}

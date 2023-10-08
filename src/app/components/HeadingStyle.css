@@ -1,0 +1,24 @@
+/* style={{ fontWeight: "900";fontSize: "30px";color: "#f6f6f6" }} */
+
+.heading p{
+    font-weight: 900 ;
+    font-size: 30px ;
+    color: #f6f6f6
+}
+
+@media (max-width : 640px){
+
+    .heading p{
+        font-size: 20px !important;
+        font-weight: 700 !important;
+    }
+
+}
+
+
+@media (max-width : 768px){
+    .heading p{
+        font-size: 25px;
+        font-weight: 800;
+    }
+}
